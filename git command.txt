@@ -1,0 +1,24 @@
+commands
+
+- git status
+- git commit
+- touch file_name  // create file using command
+- git add -A  //all file add  
+- git checkout file_name / restore file_name //restore file data 
+- git checkout -f  //all restore file
+- git log -p -1 // view commit number
+- git diff  // show file_name and change text
+- git dif --staged // show last commit 
+- git commit -a -m "Adding waste"  
+- git rm --cached waste.html //  
+- git rm file_name -f // remove file
+- git commit -a -m file_name "Removing waste // 
+- git status -s // show file name with m 
+- git branch branch_name // master clone and ceate brnch kay bi chege karva thi mastre ma koy change thse nay
+- git branch // check current branch 
+- git checkout branch_name // switch branch 
+- git merge branch_name // merge branch master
+
+
+ 
+ 
